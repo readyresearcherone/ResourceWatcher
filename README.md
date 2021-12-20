@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/readyresearcherone/ResourceWatcher/fad401c4e3f386a1fe96a87010dfd59eeefaf8b5/images/logo.svg?token=ATNGPUZCGB4FUI2ATTDDEQTBYEBZE)
+![](https://raw.githubusercontent.com/readyresearcherone/ResourceWatcher/8e03d4e553ff6af83a002f55ecdada3d69b922bc/images/logo.svg?token=ATNGPU2BDAVO63BUITZEO3LBYECHY)
 
 
 A small system resources watcher and logger made in C#,
